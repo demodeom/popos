@@ -1,5 +1,6 @@
 #!/bin/bash
 
+source ~/.bashrc
 nvm use 8
 gitbook build
 rm -rf ./docs
