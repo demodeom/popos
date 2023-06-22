@@ -14,4 +14,5 @@
 * [IDE](doc/ide.md)
 * [邮箱](doc/email.md)
 * [视频播放器](doc/video.md)
+* [Webapp Manager/](doc/webapp-manager.md)
 
