@@ -16,9 +16,13 @@
     <toc-element topic="视频播放器.md"/>
     <toc-element topic="音乐、视频.md"/>
     <toc-element topic="聊天、通信.md"/>
+    <toc-element topic="远程软件.md"/>
+    <toc-element topic="Selenium.md"/>
     <toc-element topic="浏览器.md"/>
+    <toc-element topic="系统工具.md"/>
     <toc-element topic="代码编辑器.md"/>
     <toc-element topic="Python.md"/>
     <toc-element topic="Node-js.md"/>
     <toc-element topic="Java.md"/>
+    <toc-element topic="PHP.md"/>
 </instance-profile>
