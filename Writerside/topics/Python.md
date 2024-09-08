@@ -40,3 +40,20 @@ wget https://mirrors.huaweicloud.com/python/3.10.14/Python-3.10.14.tar.xz
 pyenv install 3.10.14
 pyenv global 3.10.14
 ```
+
+
+国内源
+
+```bash
+pip config --global set global.index-url https://mirrors.aliyun.com/pypi/simple/
+
+pip config --global set install.trusted-host mirrors.aliyun.com
+```
+
+Linux 使用次命令可能会有权限问题， 解决方法： 使用 `--user` 代替 `--global`
+
+```bash
+pip config --user set global.index-url https://mirrors.aliyun.com/pypi/simple/
+
+pip config --user set install.trusted-host mirrors.aliyun.com
+```
