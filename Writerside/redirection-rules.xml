@@ -14,4 +14,8 @@
         <description>Created after removal of "开发环境" from Instance Name</description>
         <accepts>开发环境.html</accepts>
     </rule>
+    <rule id="b8b7f4a">
+        <description>Created after removal of "Starter" from Instance Name</description>
+        <accepts>starter.html</accepts>
+    </rule>
 </rules>
