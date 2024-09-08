@@ -12,6 +12,10 @@
     </toc-element>
     <toc-element topic="软件管理.md"/>
     <toc-element topic="输入法.md"/>
+    <toc-element topic="下载工具.md"/>
+    <toc-element topic="视频播放器.md"/>
+    <toc-element topic="音乐、视频.md"/>
+    <toc-element topic="聊天、通信.md"/>
     <toc-element topic="浏览器.md"/>
     <toc-element topic="代码编辑器.md"/>
     <toc-element topic="Python.md"/>
