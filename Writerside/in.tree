@@ -6,14 +6,17 @@
                  name="Instance Name"
                  start-page="系统配置.md">
 
-    <toc-element topic="系统配置.md"/>
-    <toc-element topic="代理.md">
+    <toc-element topic="系统配置.md">
+        <toc-element topic="DNS配置.md"/>
+        <toc-element topic="APT镜像.md"/>
+        <toc-element topic="必备软件.md"/>
+        <toc-element topic="OhMyZsh.md"/>
+        <toc-element topic="输入法Fcitx5.md"/>
+        <toc-element topic="音乐视频.md"/>
+        <toc-element topic="魔法.md"/>
     </toc-element>
     <toc-element topic="软件管理.md"/>
-    <toc-element topic="输入法.md"/>
     <toc-element topic="下载工具.md"/>
-    <toc-element topic="视频播放器.md"/>
-    <toc-element topic="音乐、视频.md"/>
     <toc-element topic="聊天、通信.md"/>
     <toc-element topic="远程软件.md"/>
     <toc-element topic="Selenium.md"/>

@@ -18,4 +18,20 @@
         <description>Created after removal of "Starter" from Instance Name</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="e86d35f">
+        <description>Created after removal of "代理" from Instance Name</description>
+        <accepts>代理.html</accepts>
+    </rule>
+    <rule id="574f24a8">
+        <description>Created after removal of "输入法" from Instance Name</description>
+        <accepts>输入法.html</accepts>
+    </rule>
+    <rule id="4aa18a55">
+        <description>Created after removal of "视频播放器" from Instance Name</description>
+        <accepts>视频播放器.html</accepts>
+    </rule>
+    <rule id="3348e934">
+        <description>Created after removal of "音乐、视频" from Instance Name</description>
+        <accepts>音乐、视频.html</accepts>
+    </rule>
 </rules>
